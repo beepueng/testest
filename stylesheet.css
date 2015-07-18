@@ -1,0 +1,56 @@
+h2 {
+    font-family: Verdana, Arial, sans-serif;
+    text-align: center;
+	color: #ffffff;
+    font-size: 30px;
+    
+}
+
+#header {
+	width: 100%;
+	height: 90px;
+	position: relative;
+	top: -40px;
+	background-color: #ff7272;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+
+body{
+    background-color: #bac4c2;
+}
+
+p {
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 1em;
+}
+
+.username {
+	position: relative;
+	top: 20px;
+    left: 40px;
+    font-size: 20px;
+    color: #222222;
+   
+}
+
+.password {
+	position: relative;
+	top: 40px;
+    left: 40px;
+    font-size: 20px;
+    color: #222222;
+   
+}
+
+#gender {
+	position: relative;
+	top: 60px;
+    left: 40px;
+    font-size: 20px;
+}
+button{
+    position: relative;
+	top: 80px;
+    left: 140px;
+}
